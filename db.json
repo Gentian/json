@@ -8,7 +8,11 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
+  "tracks": {
+    "Id" : 20,
+                "Title" : "Pumpkin Hill",
+                "Description" : "'The key to serenity is trusting that the universe has your back.' -- Gabrielle Bernstein",
+                "FileName" : "20.mp3",
+                "PublishDate" : "November 3, 2020"
   }
 }
