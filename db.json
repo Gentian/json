@@ -1,7 +1,14 @@
 {
- 	"Id": "20",
- 	"Title": "Pumpkin Hill Ian",
- 	"Description": "'The key to serenity is trusting that the universe has your back.' -- Gabrielle Bernstein",
- 	"FileName": "20.mp3",
- 	"PublishDate": "November 3, 2020"
- }
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
